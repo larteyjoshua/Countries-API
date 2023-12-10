@@ -45,7 +45,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL Backend: [Add solution URL here](https://github.com/larteyjoshua/Countries-API)
+- Solution URL Backend: [https://github.com/larteyjoshua/Countries-API](https://github.com/larteyjoshua/Countries-API)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -55,7 +55,9 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - HTML
 - CSS custom properties
 - Flexbox
--Python
+- leaflets - Map display library
+- PrimeNG - UI Material Design
+- Python
 - Mobile-first workflow
 - [Angular](https://angular.io/) - JS Framework
 - [FastAPI](https://fastapi.tiangolo.com/) - Python framework
