@@ -45,8 +45,9 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
+- Solution URL Frontend: [https://github.com/larteyjoshua/Countries-API-UI](https://github.com/larteyjoshua/Countries-API-UI)
 - Solution URL Backend: [https://github.com/larteyjoshua/Countries-API](https://github.com/larteyjoshua/Countries-API)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://countries-api-b475c.web.app](https://countries-api-b475c.web.app/)
 
 ## My process
 
